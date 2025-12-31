@@ -4,13 +4,11 @@
 
 [![Downloads](https://img.shields.io/docker/pulls/kubeoperator/webkubectl?label=downloads)](https://hub.docker.com/r/kubeoperator/webkubectl)
 [![Go Report Card](https://goreportcard.com/badge/github.com/kubeoperator/webkubectl)](https://goreportcard.com/report/github.com/kubeoperator/webkubectl)
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/kubeoperator/webkubectl/build-and-push-to-dockerhub)](https://github.com/KubeOperator/webkubectl/actions/workflows/publish-to-dockerhub.yml)
 ![License](https://img.shields.io/github/license/KubeOperator/webkubectl)
 ![Dockerized](https://img.shields.io/badge/dockerized-yes-brightgreen)
 ![Version](https://img.shields.io/github/v/release/kubeoperator/webkubectl)
-![Visitors](https://page-views.glitch.me/badge?page_id=kubeoperator.webkubectl)
 
-![webkubectl](https://raw.githubusercontent.com/KubeOperator/webkubectl/master/web-resources/webkubectl.gif)
+![webkubectl](web-resources/webkubectl.gif)
 
 # Goal
 
@@ -143,7 +141,7 @@ http://<webkubectl-address>:<port>/terminal/?token=<token fetched from api>
 
 # License
 
-Copyright (c) 2014-2023 FIT2CLOUD 飞致云<br>
+Copyright (c) 2014-2026 FIT2CLOUD 飞致云<br>
 
 [https://www.fit2cloud.com](https://www.fit2cloud.com)<br>
 
